@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guileless-blancmange-9961e3.netlify.app/sitemap.xml
